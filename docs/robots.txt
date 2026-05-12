@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://1win-promo.github.io/promokod-1win-mrswin-2026/sitemap.xml
